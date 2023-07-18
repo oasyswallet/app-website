@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "695XJ43B2D.com.oasys-wallet.oas-app",
-                "paths": [ "*" ]
+                "paths": [ "/app/*" ]
             }
         ]
     }
